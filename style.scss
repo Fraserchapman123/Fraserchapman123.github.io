@@ -71,7 +71,7 @@ p {
 }
 
 a {
-  color: #ffffff;
+  color: #ffa500;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
@@ -125,11 +125,11 @@ img {
 // Specify the color of the selection
 ::-moz-selection {
   color: #ffffff;
-  background: #000000;
+  background: #ffffff;
 }
 ::selection {
   color: #ffffff;
-  background: #000000;
+  background: #ffffff;
 }
 
 // Nicolas Gallagher's micro clearfix hack
