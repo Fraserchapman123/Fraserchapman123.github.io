@@ -1,5 +1,5 @@
 ---
-title: Finishing up on our virtusl shops
+title: Finishing up on our virtual shops
 layout: post
 author: fraser.chapman
 permalink: /finishing-up-on-our-virtusl-shops/
