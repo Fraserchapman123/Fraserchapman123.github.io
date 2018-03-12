@@ -1,0 +1,10 @@
+---
+title: Artificial intelligence
+layout: post
+author: fraser.chapman
+permalink: /artificial-intelligence/
+source-id: 1y6Z3gveANr7o0ueebP_2dJF0gyd25VinYdN2kWv9M38
+published: true
+---
+This IT lesson we started of by watching our teacher talk to two AI websites. One had won the turing test, a prestigious event for artificial intelligence, and the other hadn't quite made it as far. There were lots of differences between the two, cleverbot, the one that hadn’t one the turing test, came back with vague answers that didn’t make sense for the most part whereas the more sophisticated AI gave specific answers that were relevant. This showed that cleverbot had very simple coding and very few outcomes whereas the other AI was much more complex and the coding would be more complicated. This is because it needs to cater for more possible outcomes in order to give more specific answers each time. Then it was our turn to use python 3 on the repl.it website to try and create our own talking bot. Our coding was somewhere in between the level of sophistication of the two bots we had looked at. We tried to include answers that quite specific but at the same time could answer a few comments that the human said in order to not narrow down the things that the human inputter could say that would get a valid response. We used the "while loop to create questions and used variables to use previous answers the human had given to make the next question more personal, for example: using their name in a question or reusing their answer in a comment afterwards. For homework we were tasked with writing the code for three more questions. My bot now asks a few questions about your day and your hobbies and interests. Each time there are different amounts of possible responses based on their answer. In the questions about hobbies there are four possible comments on the different answers that were hinted in the question, for example: football, rugby, cricket, tennis, there would be a different comment for each of those answers and one additional comment in the event that the human does not chose to write any of the four hinted options.
+
